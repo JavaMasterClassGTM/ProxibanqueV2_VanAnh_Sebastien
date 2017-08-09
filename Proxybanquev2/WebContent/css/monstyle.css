@@ -1,0 +1,26 @@
+body {
+	text-align: center;
+	
+}
+
+.head {
+	background-color: #5882FA;
+	height: 200px;
+	text-align: center;
+}
+
+h1 {
+	padding-top: 50px;
+}
+
+.container #row2{
+padding-top: 50px;
+
+
+}
+
+
+button{
+	margin-right: 5px;
+	margin-bottom:5px;
+}
